@@ -1,34 +1,100 @@
-0
-3
-6
-9
-12
-15
-18
-21
-24
-27
-30
-33
-36
-39
-42
-45
-48
-51
-54
-57
-60
-63
-66
-69
-72
-75
-78
-81
-84
-87
-90
-93
-96
-99
+0 multiplo de 3
+1
+2
+3 multiplo de 3
+4
+5
+6 multiplo de 3
+7
+8
+9 multiplo de 3
+10
+11
+12 multiplo de 3
+13
+14
+15 multiplo de 3
+16
+17
+18 multiplo de 3
+19
+20
+21 multiplo de 3
+22
+23
+24 multiplo de 3
+25
+26
+27 multiplo de 3
+28
+29
+30 multiplo de 3
+31
+32
+33 multiplo de 3
+34
+35
+36 multiplo de 3
+37
+38
+39 multiplo de 3
+40
+41
+42 multiplo de 3
+43
+44
+45 multiplo de 3
+46
+47
+48 multiplo de 3
+49
+50
+51 multiplo de 3
+52
+53
+54 multiplo de 3
+55
+56
+57 multiplo de 3
+58
+59
+60 multiplo de 3
+61
+62
+63 multiplo de 3
+64
+65
+66 multiplo de 3
+67
+68
+69 multiplo de 3
+70
+71
+72 multiplo de 3
+73
+74
+75 multiplo de 3
+76
+77
+78 multiplo de 3
+79
+80
+81 multiplo de 3
+82
+83
+84 multiplo de 3
+85
+86
+87 multiplo de 3
+88
+89
+90 multiplo de 3
+91
+92
+93 multiplo de 3
+94
+95
+96 multiplo de 3
+97
+98
+99 multiplo de 3

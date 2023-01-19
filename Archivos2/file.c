@@ -19,6 +19,8 @@ int main(){
 
             while (fscanf(inputFile, "%d", &number) == 1){
                 if (number % 3 == 0){
+                    fprintf(outputFile, "%d multiplo de 3\n", number);
+                }else{
                     fprintf(outputFile, "%d\n", number);
                 }
             }
@@ -41,6 +43,8 @@ int main(){
 
         while (fscanf(inputFile, "%d", &number) == 1){
             if (number % 3 == 0){
+                fprintf(outputFile, "%d multiplo de 3\n", number);
+            }else{
                 fprintf(outputFile, "%d\n", number);
             }
         }
